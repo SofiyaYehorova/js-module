@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+
+
+h3.product-title {
+    color: blue;
+}
+
+.product-image {
+    height: 200px;
+    width: 200px;
+}
